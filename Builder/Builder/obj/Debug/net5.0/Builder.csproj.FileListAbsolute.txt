@@ -1,0 +1,16 @@
+C:\Users\wiktor.muller\Desktop\Builder\Builder\bin\Debug\net5.0\Builder.exe
+C:\Users\wiktor.muller\Desktop\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+C:\Users\wiktor.muller\Desktop\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+C:\Users\wiktor.muller\Desktop\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+C:\Users\wiktor.muller\Desktop\Builder\Builder\bin\Debug\net5.0\Builder.dll
+C:\Users\wiktor.muller\Desktop\Builder\Builder\bin\Debug\net5.0\ref\Builder.dll
+C:\Users\wiktor.muller\Desktop\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\Builder.csprojAssemblyReference.cache
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\Builder.dll
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+C:\Users\wiktor.muller\Desktop\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
